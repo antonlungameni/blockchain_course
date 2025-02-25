@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.19; // Stating the solidity Version
+pragma solidity ^0.8.24; // Stating the solidity Version
 
 contract SimpleStorage {
     uint256 myFavouriteNumber; // Declaring a variable of type 'uint' (unintialised) has 0 value
